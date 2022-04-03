@@ -1,0 +1,11 @@
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.SuggestedBindingRedirects.cache
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\luizh\source\repos\Calculadora1\Calculadora Simples\Calculadora 2\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
